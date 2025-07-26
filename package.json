@@ -1,0 +1,16 @@
+{
+  "name": "template-dance-studio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Andriotis-Dimitris/template-dance-studio.git",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "web",
+    "mobile"
+  ],
+  "resolutions": {
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  }
+}
